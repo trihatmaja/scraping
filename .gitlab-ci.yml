@@ -3,3 +3,4 @@ image: python:latest
 test:
   script:
     - echo "test"
+    - echo "test-1"
